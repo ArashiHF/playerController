@@ -1,2 +1,2 @@
 # playerController
- 
+ 该项目为我的tps控制器雏形，当然只是练手项目，该项目参考过UE引擎最基础的playerController，其中也结合了unity的分层有限状态机，也实现了手机项目中的控制器比当时的版本更加复杂。
